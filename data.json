@@ -1,0 +1,13 @@
+{
+  "sites": [
+    {
+      "key": "huangsecang",
+      "name": "黄仓资源库",
+      "type": 3,
+      "api": "https://huangsecangku.net/api.php",
+      "searchable": 1,
+      "quickSearch": 1
+    }
+  ],
+  "parses": [] 
+}
